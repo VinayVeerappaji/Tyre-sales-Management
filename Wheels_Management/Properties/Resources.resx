@@ -118,10 +118,112 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="LoginPage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LoginPage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="home" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\home.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_Home_2202277 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_Home_2202277 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="XM2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\XM2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="b250" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\b250.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_1-10_511565" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_1-10_511565.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_graphs_5326411" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_graphs_5326411.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DURAPLUS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DURAPLUS.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="goodyear_wrangler_triplemax_03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\goodyear_wrangler_triplemax_03.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_Home_2202277" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_Home_2202277.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_Sale_and_Discount-10_3702393" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_Sale_and_Discount-10_3702393.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_road_1608816" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_road_1608816.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_Ago_arrow_arrow_left_back_previous_direction_left_1886109" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_Ago_arrow_arrow_left_back_previous_direction_left_1886109.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\F1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZEC" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ZEC.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="triplemax1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\triplemax1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="milaze-lt-405x527" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\milaze-lt-405x527.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZVTLT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ZVTLT.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="th" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\th.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_graphs_532641" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_graphs_532641.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="form1_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\form1_background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="LoginPage" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LoginPage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="LATITUDE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LATITUDE.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="zvts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\zvts.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ceat-fuel-smart-405x527" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ceat-fuel-smart-405x527.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ponteza" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ponteza.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZGP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ZGP.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LTX" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LTX.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_icons_exit2_1564506 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_icons_exit2_1564506 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FORM1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FORM1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ecopia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ecopia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="g2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WANDERER" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WANDERER.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_power_1055002" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_power_1055002.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WANDERER1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WANDERER1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_wheel_48014" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_wheel_48014.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="giphy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\giphy.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
