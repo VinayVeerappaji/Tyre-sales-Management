@@ -12,5 +12,6 @@ Download the recomended extensions
 Download the the required packages which are in package folder      
 (Visual Studio automatically recommends)
 
-### More Details
-You can find detailed information regarding the project in the report file along with the screenshots of UI.
+### More Details  
+The screenshots for the above project has been added to [DEMO](https://github.com/VinayVeerappaji/Tyre-sales-Management/tree/master/DEMO)  
+You can find detailed information regarding the project in the report file.
